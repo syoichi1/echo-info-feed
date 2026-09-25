@@ -1,4 +1,12 @@
 {
   "ok": true,
-  "notifications": []
+  "notifications": [
+    {
+      "severity": "CRITICAL",
+      "title": "GitHub CRITICAL通知テスト",
+      "spoken_summary": "GitHubからEcho AssistantへのCRITICAL通知経路テストです",
+      "fingerprint": "github-feed-critical-36096200457-1",
+      "audio_path": "/audio/zundamon-test.wav"
+    }
+  ]
 }
